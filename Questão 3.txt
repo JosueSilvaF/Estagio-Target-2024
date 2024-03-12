@@ -1,0 +1,13 @@
+3) Descubra a lógica e complete o próximo elemento:
+
+a) 1, 3, 5, 7, _9_ : Esta sequência incrementa por 2 a cada passo.
+
+b) 2, 4, 8, 16, 32, 64, _128_ : Esta sequência dobra o número anterior a cada passo.
+
+c) 0, 1, 4, 9, 16, 25, 36, _49_ : Esta sequência representa os quadrados perfeitos (7^2 = 49)
+
+d) 4, 16, 36, 64, _100_ : Esta sequência representa o quadrado dos números pares (10^2 = 100)
+
+e) 1, 1, 2, 3, 5, 8, _13_ : Esta é a sequência de Fibonacci (8+5 = 13)
+
+f) 2, 10, 12, 16, 17, 18, 19, _?_ : Não feito.

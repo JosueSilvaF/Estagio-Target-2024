@@ -1,0 +1,8 @@
+1º: Ligue o primeiro interruptor e deixe-o ligado por alguns minutos. Isso permitirá que a lâmpada correspondente a esse interruptor aqueça.
+2º: Após esperar alguns minutos, desligue o primeiro interruptor e ligue o segundo interruptor. Então, imediatamente vá até a sala das lâmpadas pela primeira vez.
+
+Na sala das lâmpadas:
+- A lâmpada que estiver acesa é controlada, obviamente, pelo segundo interruptor.
+- Toque as outras duas lâmpadas cuidadosamente. A lâmpada que estiver quente (mas apagada) é controlada pelo primeiro interruptor, pois foi a única que
+    teve tempo de aquecer antes de você desligá-la.
+- A lâmpada que estiver fria e apagada é controlada pelo terceiro interruptor, pois este não foi ligado em nenhum momento antes de você ir até a sala.
